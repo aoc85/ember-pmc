@@ -1,0 +1,6 @@
+{
+  "name": "pmc",
+  "dependencies": {
+    "materialize": "0.97.7"
+  }
+}
